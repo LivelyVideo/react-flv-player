@@ -42,6 +42,7 @@
   },
   "dependencies": {
     "babel-preset-react": "^6.24.1",
+    "flv.js": "github:LivelyVideo/flv.js#dbc21d9",
     "object-assign": "^4.1.1",
     "prop-types": "^15.6.0",
     "react": "^16.8.6"
